@@ -1,0 +1,125 @@
+
+#apps {
+
+    min-width: 700px;
+    max-width: 1008px;
+}
+
+
+/******* HOVER *******/
+/*****************************************************************/
+/*****************************************************************/
+/*****************************************************************/
+
+#adhoc a:hover {
+    
+    background-color: transparent;
+}
+
+#header #logo_link:hover {
+    
+    background-color: transparent;
+}
+
+#presskit #app:hover {
+    
+    background: #eeeeee;
+    color: #000000;
+}
+
+#adhoc #app:hover {
+    
+    background: #eeeeee;
+    color: #000000;
+}
+
+#main .list .app_action:hover {
+    
+    background: #eeeeee;
+}
+
+#apps #controls .control:hover {
+    
+    color: #000000;
+    background: #eeeeee;
+}
+
+.menu .link:hover {
+
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 4px;
+    background-color: transparent;
+    text-decoration: none;
+    color: #000000;
+}
+
+.twitter:hover {
+    
+    background-color: #30D8F0;
+}
+
+.facebook:hover {
+    
+    background-color: #3D62B3;
+}
+
+.linkedin:hover {
+    
+    background-color: #0080AC;
+}
+
+#apps #appstore_hidden_link:hover {
+    
+    background-color: transparent;
+}
+
+.rounded_button:hover {
+
+    background-color: #000000;
+}
+
+
+/******* MAIN COLOR *******/
+/*****************************************************************/
+/*****************************************************************/
+/*****************************************************************/
+
+#goodies .permalink:hover {
+    
+    background-color: #3366aa;
+}
+
+
+.buttonlink:hover {
+
+    background-color: #3366aa;
+}
+
+#articles .article .content a:hover, .link:hover {
+
+    color:#9b1712;
+    
+}
+
+.obviouslink:hover {
+
+    color: #3366aa;
+}
+
+.rounded_button:hover {
+
+    color: #3366aa;
+}
+
+#logo:hover {
+    
+    background-color: #3366aa;
+}
+
+.menu .link:hover {
+
+    
+    border-color: #3366aa;
+    
+}
